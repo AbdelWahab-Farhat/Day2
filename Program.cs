@@ -16,6 +16,7 @@ namespace Day2App
                 new Employee { Id = 2, Name = "Bob Smith", Designation = "Project Manager", Salary = 90000, Doj = new DateTime(2018, 3, 10) },
                 new Employee { Id = 3, Name = "Charlie Brown", Designation = "QA Engineer", Salary = 65000, Doj = new DateTime(2021, 7, 20) },
                 new Employee { Id = 4, Name = "David Wilson", Designation = "HR Specialist", Salary = 55000, Doj = new DateTime(2019, 1, 5) },
+                new Employee { Id = 5, Name = "Eve Adams", Designation = "DevOps Engineer", Salary = 80000, Doj = new DateTime(2017, 11, 25) },           
                 new Employee { Id = 5, Name = "Eve Adams", Designation = "DevOps Engineer", Salary = 80000, Doj = new DateTime(2017, 11, 25) }
             };
 
